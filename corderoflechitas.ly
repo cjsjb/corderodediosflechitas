@@ -30,7 +30,7 @@ globalTempo = {
 
 		\include "corderoflechitas-acordes.inc"
 		\include "corderoflechitas-bajo.inc"
-		%\include "corderoflechitas-soprano.inc"
+		\include "corderoflechitas-soprano.inc"
 		%\include "corderoflechitas-mezzo.inc"
 		%\include "corderoflechitas-tenor.inc"
 
