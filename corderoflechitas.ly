@@ -24,16 +24,16 @@ globalTempo = {
 	\tempo 4 = 75  \skip 1*2
 }
 \score {
-	\new StaffGroup <<
+	<<
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "corderoflechitas-acordes.inc"
-		\include "corderoflechitas-bajo.inc"
-		\include "corderoflechitas-soprano.inc"
-		%\include "corderoflechitas-mezzo.inc"
-		%\include "corderoflechitas-tenor.inc"
-
+		\new StaffGroup <<
+			\include "corderoflechitas-soprano.inc"
+			\include "corderoflechitas-mezzo.inc"
+			%\include "corderoflechitas-tenor.inc"
+		>>
 	>>
 
 	\layout { }
