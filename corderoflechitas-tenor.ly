@@ -6,6 +6,7 @@
 	title = "Cordero de Dios"
 	subtitle = "Jésed"
 	tagline = "Coro Juvenil San Juan Bosco"
+	instrument = "Tenor"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
@@ -30,8 +31,6 @@ globalTempo = {
 
 		\include "corderoflechitas-acordes.inc"
 		\new StaffGroup <<
-			\include "corderoflechitas-soprano.inc"
-			\include "corderoflechitas-mezzo.inc"
 			\include "corderoflechitas-tenor.inc"
 		>>
 	>>
