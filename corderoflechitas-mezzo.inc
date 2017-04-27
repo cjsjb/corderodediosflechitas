@@ -20,24 +20,22 @@
 		a' 1  |
 		r4 b' a' g'  |
 		a' 1  |
-		r4 fis' 8 g' 4 fis' 8 e' d' ( ~ 
-		% warning: overlong bar truncated here |
+		r4 fis' 8 g' 4 fis' 8 e' d' ( ~
 		d' 8 b 2 ) r8 b b  |
 %% 10
-		\times 2/3 { cis' 4 cis' d' } cis' cis'  |
-		r4 fis' 8 fis' \times 2/3 { fis' 4 e' fis' }  |
+		cis' 8. cis' d' 8 cis' 4 cis'  |
+		r4 fis' 8 fis' fis' 8. e' fis' 8  |
 		g' 4 ( fis' 8 e' 4 d' 8 ) b 4 ~  |
 		b 4 r b d'  |
 		a' 1 ~  |
 %% 15
 		a' 1  |
 		R1  |
-		r4 fis' 8 g' 4 fis' 8 e' d' ( ~ 
-		% warning: overlong bar truncated here |
+		r4 fis' 8 g' 4 fis' 8 e' d' ( ~
 		d' 8 b 2 ) r8 b b  |
-		\times 2/3 { cis' 4 cis' d' } cis' cis'  |
+		cis' 8. cis' d' 8 cis' 4 cis'  |
 %% 20
-		r4 fis' 8 fis' \times 2/3 { fis' 4 e' fis' }  |
+		r4 fis' 8 fis' fis' 8. e' fis' 8  |
 		g' 4 ( fis' 8 e' 4 d' 8 ) b 4 ~  |
 		b 4 r r2  |
 		r4 cis' 8 d' e' fis' g' a'  |
@@ -50,8 +48,7 @@
 		g' 1  |
 %% 30
 		e' 2 r4 e'  |
-		fis' 2 ( g' 
-		% warning: overlong bar truncated here |
+		fis' 2 ( g'
 		fis' 2 ) r  |
 		\bar "|."
 	} % Voice

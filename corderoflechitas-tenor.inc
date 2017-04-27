@@ -20,23 +20,23 @@
 %% 5
 		r4 d' 2 ~ d' 8 b 16 ( a )  |
 		b 16 ( a ~ a 8 ~ a 2 ) r4  |
-		r4 r8 d' \times 2/3 { d' 4 b d' }  |
+		r4 r8 d' d' 8. b d' 8  |
 		b 1  |
 		r4 r8 g g g e g  |
 %% 10
-		\times 2/3 { a 4 a b } a a  |
-		r4 d' 8 d' \times 2/3 { d' 4 cis' d' }  |
+		a 8. a b 8 a 4 a  |
+		r4 d' 8 d' d' 8. cis' d' 8  |
 		d' 4 ( cis' 8 b 4 a 8 ) g 4 ~  |
 		g 4 r e g  |
 		a 1 ~  |
 %% 15
 		a 1  |
-		r4 r8 d' \times 2/3 { d' 4 b d' }  |
+		r4 r8 d' d' 8. b d' 8  |
 		b 1  |
 		r4. g 8 g g e g  |
-		\times 2/3 { a 4 a b } a a  |
+		a 8. a b 8 a 4 a  |
 %% 20
-		r4 d' 8 d' \times 2/3 { d' 4 cis' d' }  |
+		r4 d' 8 d' d' 8. cis' d' 8  |
 		d' 4 ( cis' 8 b 4 a 8 ) g 4 ~  |
 		g 4 r b d'  |
 		cis' 1 ~  |

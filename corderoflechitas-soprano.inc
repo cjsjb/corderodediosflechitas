@@ -20,23 +20,23 @@
 %% 5
 		r4 fis' e' fis' ~  |
 		fis' 1  |
-		r4 r8 fis' \times 2/3 { fis' 4 e' fis' }  |
+		r4 r8 fis' fis' 8. e' fis' 8  |
 		g' 1  |
 		r4 r8 d' d' d' b d'  |
 %% 10
-		\times 2/3 { e' 4 e' fis' } e' e'  |
-		r4 fis' 8 fis' \times 2/3 { fis' 4 e' fis' }  |
+		e' 8. e' fis' 8 e' 4 e'  |
+		r4 fis' 8 fis' fis' 8. e' fis' 8  |
 		b' 4 ( a' 8 g' 4 fis' 8 ) e' 4 ~  |
 		e' 4 r b d'  |
 		e' 1 ~  |
 %% 15
 		e' 1  |
-		r4 r8 fis' \times 2/3 { fis' 4 e' fis' }  |
+		r4 r8 fis' fis' 8. e' fis' 8  |
 		g' 1  |
 		r4. d' 8 d' d' b d'  |
-		\times 2/3 { e' 4 e' fis' } e' e'  |
+		e' 8. e' fis' 8 e' 4 e'  |
 %% 20
-		r4 fis' 8 fis' \times 2/3 { fis' 4 e' fis' }  |
+		r4 fis' 8 fis' fis' 8. e' fis' 8  |
 		b' 4 ( a' 8 g' 4 fis' 8 ) e' 4 ~  |
 		e' 4 r b d'  |
 		e' 1 ~  |
