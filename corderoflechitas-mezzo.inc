@@ -53,7 +53,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		% intro
 		Uh uh uh uh.
 		Uh uh uh uh.

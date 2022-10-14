@@ -49,7 +49,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-voz" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-voz" {
 		Cor -- de -- ro de Dios,
 		que qui -- tas el pe -- ca -- do del mun -- do,
 		ten pie -- dad de no -- so __ tros,

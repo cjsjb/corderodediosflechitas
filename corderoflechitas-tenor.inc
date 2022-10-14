@@ -54,7 +54,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		% intro
 		Uh uh __ uh. __
 		Uh uh __ uh. __
