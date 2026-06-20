@@ -1,5 +1,5 @@
 partitura_titulo = "Cordero de Dios"
-partitura_subtitle = "Jésed"
+partitura_subtitulo = "Jésed"
 partitura_tono = d
 
 partitura_tiempos = {
