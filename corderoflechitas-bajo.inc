@@ -12,6 +12,8 @@
 		\override MultiMeasureRest #'expand-limit = 1
 		\once \override Staff.TimeSignature #'style = #'() \time 4/4
 
+		$(let ((val (ly:parser-lookup 'easy))) (if (null? val) #{ #} val))
+
 		\clef "bass"
 		\key d \major
 		d, 1  |
