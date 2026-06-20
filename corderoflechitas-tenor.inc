@@ -52,7 +52,7 @@
 		d' 1 ~  |
 		d' 2 r  |
 		\bar "|."
-	} % Voice
+	}
 
 	\new Lyrics \lyricsto "voz-tenor" {
 		% intro

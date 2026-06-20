@@ -51,7 +51,7 @@
 		fis' 2 ( g'
 		fis' 2 ) r  |
 		\bar "|."
-	} % Voice
+	}
 
 	\new Lyrics \lyricsto "voz-mezzo" {
 		% intro

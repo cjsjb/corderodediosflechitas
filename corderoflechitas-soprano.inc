@@ -52,7 +52,7 @@
 		a' 1 ~  |
 		a' 2 r  |
 		\bar "|."
-	} % Voice
+	}
 
 	\new Lyrics \lyricsto "voz-soprano" {
 		% intro
