@@ -8,3 +8,5 @@ partitura_tiempos = {
 	\skip 1*30
 	\tempo 4 = 75
 }
+
+partitura_archivo = "corderoflechitas"
