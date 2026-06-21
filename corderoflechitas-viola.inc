@@ -1,18 +1,18 @@
-\context Staff = "violin2" \with { \consists Ambitus_engraver } <<
-	\set Staff.instrumentName = "Violín 2"
-	\set Staff.shortInstrumentName = "Vn.2"
+\context Staff = "viola" \with { \consists Ambitus_engraver } <<
+	\set Staff.instrumentName = "Viola"
+	\set Staff.shortInstrumentName = "Va."
 	\set Score.skipBars = ##t
 	\set Staff.printKeyCancellation = ##f
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "voz-violin2" {
+	\context Voice = "voz-viola" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
 		$(let ((val (ly:parser-lookup 'easy))) (if (null? val) #{ #} val))
 
-		\clef "treble"
+		\clef "alto"
 		\key d \major
 
 		R1  |
