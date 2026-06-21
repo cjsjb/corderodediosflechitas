@@ -1,12 +1,12 @@
-\context Staff = "violin1" \with { \consists Ambitus_engraver } <<
-	\set Staff.instrumentName = "Violín 1"
-	\set Staff.shortInstrumentName = "Vn.1"
+\context Staff = "violin" \with { \consists Ambitus_engraver } <<
+	\set Staff.instrumentName = "Violín"
+	\set Staff.shortInstrumentName = "Vn."
 	\set Score.skipBars = ##t
 	\set Staff.printKeyCancellation = ##f
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "voz-violin1" {
+	\context Voice = "voz-violin" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
